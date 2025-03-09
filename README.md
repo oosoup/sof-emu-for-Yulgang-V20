@@ -4,6 +4,9 @@
 <h1 align="center">
   SOF-EMU - Scion of Fate V20 Emulator
   <br>
+	Support Chinese version V20
+
+http://downloadn1.rxjh.cdcgames.net/rxjh/rxjhclient/RXJH_Client_V20000.exe
 </h1>
 
 <p align="center">
